@@ -8,6 +8,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Projects
 
 ### 1: Developing a Deep Learning Model for Eyewear Detection
+![Glasses Detection](https://github.com/yourusername/yourrepo/blob/main/images/glasses_detection.png)
 - **Description**: This project focused on addressing the challenging task of automatic glasses detection in facial analysis. Leveraging state-of-the-art deep learning techniques, a convolutional neural network (CNN) architecture was designed and trained on a large dataset of facial images labeled with glasses and non-glasses categories.
 - **Link**: [View Project](https://github.com/archd3sai/Portfolio/blob/main/Project1/sales_forecasting.ipynb)
 
