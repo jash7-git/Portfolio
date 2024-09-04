@@ -16,7 +16,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 ### 1: Developing a Deep Learning Model for Eyewear Detection
 ![Footfall Prediction](https://github.com/jash7-git/Portfolio/blob/main/images/1.jpg)
 - **Description**: This project focused on addressing the challenging task of automatic glasses detection in facial analysis. Leveraging state-of-the-art deep learning techniques, a convolutional neural network (CNN) architecture was designed and trained on a large dataset of facial images labeled with glasses and non-glasses categories.
-- **Link**: [View Project](https://github.com/archd3sai/Portfolio/blob/main/Project1/sales_forecasting.ipynb)
+- **Link**: [View Project](https://github.com/jash7-git/Portfolio/tree/main/Developing%20a%20Deep%20Learning%20Model%20for%20Eyewear%20Detection)
 
 
 
