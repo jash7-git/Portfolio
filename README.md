@@ -63,7 +63,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Core Competencies
 
 **Methodologies**:  
-Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing, Statistics, Big Data Analytics, statistics
+Machine Learning, Deep Learning, Time Series Analysis, Natural Language Processing,CNN, SARIMA, XGBOOST, Statistics, Big Data Analytics, statistics
 
 **Languages**:  
 Python (Pandas, Numpy, Scikit-Learn, Scipy, Keras, Matplotlib), SQL
