@@ -20,7 +20,7 @@ This portfolio is a compilation of all the Data Science and Data Analysis projec
 
 
 
-### 2: Pridicting Heart Disease by using Neural Networks
+### 2: Predicting Heart Disease by using Neural Networks
 ![Footfall Prediction](https://github.com/jash7-git/Portfolio/blob/main/images/2.png)
 - **Description**: In this project, the aim was to predict the likelihood of heart disease using Artificial Neural Networks (ANN). The dataset provided contained various health-related attributes such as age, blood pressure, cholesterol levels, and exercise habits, along with a target variable indicating the presence or absence of heart disease.
 - **Link**: [View Project](https://github.com/jash7-git/Portfolio/tree/main/Pridicting%20Heart%20Disease%20by%20using%20Neural%20Networks)
